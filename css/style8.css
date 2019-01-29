@@ -317,10 +317,11 @@ body{
 	color:	#000;
 	font-family:Arial;
 	font-weight: bold;
-	font-size:36px;
+	font-size:30px;
 	margin-top: 30px;
 padding-top: 30px;
 padding-bottom: 30px;
+color:#ff7575;
 }
 .clearfix{
 	clear:both;
